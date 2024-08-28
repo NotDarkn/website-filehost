@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./public/header.png" alt="darkn-index" />
-  <h3><a href="https://pan.lyc8503.net">darkn-index</a></h3>
+  <h3><a href="https://dl.darkn.bio">darkn-index</a></h3>
   <p><em>OneDrive public directory listing forked from <a href="https://github.com/lyc8503/onedrive-cf-index-ng">onedrive-cf-index-ng</a>, powered by Cloudflare and Next.js</em></p>
 
   <img src="https://img.shields.io/badge/OneDrive-2C68C3?style=flat&logo=microsoft-onedrive&logoColor=white" alt="OneDrive" />
