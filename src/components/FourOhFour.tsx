@@ -8,7 +8,7 @@ const FourOhFour: React.FC<{ errorMsg: string }> = ({ errorMsg }) => {
       </div>
       <div className="mx-auto mt-6 max-w-xl text-gray-500">
         <div className="mb-8 text-xl font-bold">
-          <span className="underline decoration-red-500 decoration-wavy">! How did you get here?</span>.
+          <span className="underline decoration-red-500 decoration-wavy">Four-oh-four</span>! How did you get here?
         </div>
         <div className="mb-4 overflow-hidden break-all rounded border border-gray-400/20 bg-gray-50 p-2 font-mono text-xs dark:bg-gray-800">
           {errorMsg}
