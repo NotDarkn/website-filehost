@@ -18,7 +18,6 @@ class MyDocument extends Document {
           <meta property="og:image:height" content="512" />
           <meta property="og:site_name" content="Darkn" />
           <link rel="icon" href="/icons/download.webp" />  
-          <link rel="icon" href="/favicon.ico" />
           <link rel="preconnect" href="https://fonts.googleapis.com" />
           <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
           {siteConfig.googleFontLinks.map(link => (
