@@ -14,7 +14,7 @@ const FourOhFour: React.FC<{ errorMsg: string }> = ({ errorMsg }) => {
           {errorMsg}
         </div>
         <div className="text-sm">
-          Heya. If you are seeing this, my file host is officially {' '}
+          Heya. If you see this, my file host is officially {' '}
           <kbd className="rounded border border-gray-400/20 bg-gray-100 px-1 font-mono text-xs dark:bg-gray-800">
             dead
           </kbd>.{' '}
