@@ -28,7 +28,6 @@ const FourOhFour: React.FC<{ errorMsg: string }> = ({ errorMsg }) => {
           !
         </div>
       </div>
-    </div>
   )
 }
 
