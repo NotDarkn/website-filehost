@@ -89,7 +89,7 @@
   "<1>Four-oh-four</1>! How did you get here?": "<1>Four-oh-four</1>! How did you get here?",
   "Open URL": "Open URL",
   "Open URL{{url}}": "Open URL{{url}}",
-  "Heya, if you're seeing this, my file host is officially dead. I'm sorry. <6>Read more here.</6>!": "Heya, if you're seeing this, my file host is officially dead. I'm sorry. <6>Read more here.</6>!",
+  "Heya, if you're seeing this, my file host is officially <2>dead</2>. I'm sorry. <6>Read more here.</6>!": "Heya, if you're seeing this, my file host is officially <2>dead</2>. I'm sorry. <6>Read more here.</6>!",
   "Proceed to OAuth": "Proceed to OAuth",
   "Requesting tokens": "Requesting tokens",
   "Restart": "Restart",

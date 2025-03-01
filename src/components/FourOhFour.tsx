@@ -14,20 +14,23 @@ const FourOhFour: React.FC<{ errorMsg: string }> = ({ errorMsg }) => {
           {errorMsg}
         </div>
         <div className="text-sm">
-          Heya, if you're seeeing this,
+          Heya, if you're seeeing this, my file host is officially{' '}
+          <kbd className="rounded border border-gray-400/20 bg-gray-100 px-1 font-mono text-xs dark:bg-gray-800">
+            dead
           </kbd>{' '}
-          my file host is officially dead. I'm sorry. {' '}
+          I'm sorry. {' '}
           <a
             className="text-blue-600 hover:text-blue-700 hover:underline"
             href="https://darkn.bio/notice"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <b>Read more here.</b>
+             <b>Read more here.</b>
           </a>
           !
         </div>
       </div>
+    </div>
   )
 }
 
